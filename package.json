@@ -1,0 +1,24 @@
+{
+  "name": "gcp-action-download-storage",
+  "version": "1.0.0",
+  "description": "Downloads a file from a Google Storage Bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C1aud3/gcp-action-download-storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C1aud3/gcp-action-download-storage/issues"
+  },
+  "homepage": "https://github.com/C1aud3/gcp-action-download-storage#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
